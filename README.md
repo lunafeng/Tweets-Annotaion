@@ -3,6 +3,7 @@
 Annotate tweets by using dominant senses found in DominantSenseDetection project
 
 There are two ways to do annotation
+
 1. Compute the similarity between each Dominant Sense with the context of the tweet, the sense with the highest score will be selected as the correct sense as the annotaion.
 
 Usage
