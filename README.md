@@ -9,6 +9,7 @@ There are two ways to do annotation
 Usage
 python annotation_noCD.py
 
+
 2. Compute the collective similarity between all the combination of senses for ambiguous words in a tweet. 
 
 Usage
