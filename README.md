@@ -1,4 +1,4 @@
-# TweetsAnnotaion
+# Tweets-Annotaion
 
 Annotate tweets by using dominant senses found in DominantSenseDetection project
 
